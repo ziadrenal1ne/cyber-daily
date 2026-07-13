@@ -1,8 +1,8 @@
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime , UTC
 import re
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
 
 today = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
