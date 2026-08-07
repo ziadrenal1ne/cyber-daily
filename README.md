@@ -1,6 +1,6 @@
 # 🛡️ Cyber Daily
 
-> **365 Days of Cybersecurity Learning, Labs and Automation**
+> **365 Days of Cybersecurity Learning, Labs & Automation**
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ziadrenal1ne/cyber-daily?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ziadrenal1ne/cyber-daily?style=for-the-badge)
