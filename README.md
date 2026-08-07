@@ -13,7 +13,7 @@
 
 **Cyber Daily** is my personal cybersecurity learning journal and public knowledge base.
 
-The goal is simple:
+The Goal is simple :
 
 * 📚 Learn something new every day
 * 🛠️ Practice through hands-on labs
